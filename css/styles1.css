@@ -3,6 +3,8 @@ body {
     margin: 0;
     padding: 0;
     background: #363636;
+    background-image: url(Captura\ de\ pantalla\ 2025-01-04\ 220010.png);
+    
 }
 
 header {
@@ -27,15 +29,16 @@ body main section li a {
     color:#fff;
 }
 
-body main section a {
-    color:#fff;
-    font-size: 600px;
+body main section b {
+    color:#e0e0e0;
+    background-color: #c2c2c239;
+    font-size: 300px;
 }
 
 
 footer {
     text-align: center;
-    background: #262626;
+    background: #434343;
     color: #fff;
     padding: 1em 0em;
     bottom: 0;
